@@ -1,11 +1,5 @@
 /* Emircan KİREZ - Ch3rry */
 /* Last Update: 04/07/2022 */
-/*
------------------------ INFORMATION ---------------------------
-• It is recommended to read the README.md file before proceeding to the project.
-• For any questions and suggestions related to the project, via the e-mail address "emircan200123@hotmail.com", you can contact me by
-typing "Github | C-EN / XOX Game" to the subject line 
-*/
 
 #include <stdio.h>																											                                                        //E.K.
 #include <stdlib.h>
